@@ -43,7 +43,7 @@ Environment: Jupyter Notebook / Google Colab.
 Clone the repository:
 
 Bash
-git clone https://github.com/JociasOrt/store-performance-eda.git
+git clone https://github.com/Jaredow604/challenge-alurastore.git
 Install dependencies:
 
 Bash
